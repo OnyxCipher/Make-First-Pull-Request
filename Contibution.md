@@ -4,4 +4,6 @@
 - [Kundan Kumar](https://github.com/kundan28) :fire:
 - [Ahmad Javed](https://github.com/ahmadjaved97) :thumbsup:
 - [Sayantan Datta](https://github.com/sayantanHack) :metal:
+- [Javi](https://github.com/brunnnka) :sunglasses:
 - [Arendt](https://github.com/Arendt) :smile:
+
