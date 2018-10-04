@@ -15,3 +15,4 @@
 - [Arendt](https://github.com/Arendt) :smile:
 - [Prabhu](https://github.com/caffeinatednerd) :sunglasses:
 - [Ansh Sachdeva](https://github.com/root-ansh) :boom:
+- [TrAnn3l](https://github.com/TrAnn3l) :smile:
