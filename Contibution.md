@@ -7,3 +7,6 @@
 - [Javi](https://github.com/brunnnka) :sunglasses:
 - [Arendt](https://github.com/Arendt) :smile:
 - [Prabhu](https://github.com/caffeinatednerd) :sunglasses:
+- [Ansh Sachdeva](https://github.com/root-ansh) :boom:
+
+
