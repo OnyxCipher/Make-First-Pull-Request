@@ -8,5 +8,5 @@
 - [Arendt](https://github.com/Arendt) :smile:
 - [Prabhu](https://github.com/caffeinatednerd) :sunglasses:
 - [Ansh Sachdeva](https://github.com/root-ansh) :boom:
-
+- [grantslone](https://github.com/grantslone) :herb:
 
