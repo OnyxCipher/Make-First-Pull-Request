@@ -2,7 +2,7 @@
 
 # HACKTOBERFEST 2018
 
-![](https://assets.digitalocean.com/blog/static/hacktoberfest-2016/hero.png)
+![](/hactober.png)
 
 ## WHAT IS HACTOBERFEST?
 
