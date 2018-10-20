@@ -22,7 +22,7 @@ Hacktoberfest is a global event which motivates open source contributors to boos
 >
 > ### Rules
 >
-> To get a shirt, you must make four pull requests between October 1–31 in any timezone. Pull requests can be to any public >repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself. Pull      >requests   reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.
+> To get a shirt, you must make four pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself. Pull      requests   reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.
 
 ## ADD your Name to contribution.md with emoji and github id.
 **Emoji CheatSheet **<a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">Link</a>
