@@ -44,3 +44,4 @@ Hacktoberfest is a global event which motivates open source contributors to boos
 - [TrAnn3l](https://github.com/TrAnn3l) :smile:
 - [grantslone](https://github.com/grantslone) :herb:
 - [Rahul Tiwari](https://github.com/Grootko) :sunglasses:
+- [i-shubhamprakash](https://github.com/i-shubhamprakash) :sunglasses:
